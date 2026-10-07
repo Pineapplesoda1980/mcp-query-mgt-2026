@@ -1,0 +1,6 @@
+{
+  "name": "Executive Operations & Knowledge Mesh",
+  "description": "High-precision enterprise operations console and knowledge mesh with live incident triage, vector RAG companion, and topology telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
